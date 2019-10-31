@@ -1,7 +1,7 @@
 {
     "test_data":[
         {
-            "url" : "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/basic_examples/basic_variable.mob&node=1",
+            "url" : "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-4-11/master/assets/gallery/basic_examples/basic_variable.mob&node=1",
             "requirements": {
                 "num_positions": 0,
                 "num_triangles": 0,
@@ -17,7 +17,7 @@
             "returns": ""
         },
         {
-            "url" : "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller/master/src/assets/gallery/basic_examples/basic_ifelse.mob&node=1",
+            "url" : "https://raw.githubusercontent.com/design-automation/mobius-parametric-modeller-0-4-11/master/assets/gallery/basic_examples/basic_ifelse.mob&node=1",
             "requirements": {
                 "num_positions": 5,
                 "num_triangles": 0,
